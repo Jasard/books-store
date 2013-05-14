@@ -1,0 +1,26 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.book-previews img {
+    margin: 0 10px 10px 0;
+    max-width: 150px;
+}
+
+.navbar-fixed-top {
+    position: static;
+    margin-bottom: 10px;
+}
+
+.add-book {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.table img {
+    max-width: 75px;
+}
+
+.navbar-form i {
+    color: white;
+}
